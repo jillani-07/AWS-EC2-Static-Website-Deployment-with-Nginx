@@ -1,7 +1,7 @@
 ![Screenshot](image/ecom-test.PNG)
 
 
-# My E-Commerce Website
+# AWS EC2 Static Website Deployment with Nginx
 
 This is a simple e-commerce website built using HTML, CSS, and hosted on AWS. It demonstrates how to list products and deploy a static website on AWS EC2 using Nginx.
 
